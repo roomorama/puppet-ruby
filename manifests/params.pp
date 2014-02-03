@@ -24,8 +24,8 @@ class ruby::params {
       'source' => 'sstephenson/ruby-build'
     },
     'rbenv-gem-rehash' => {
-      'ensure' => 'v1.0.0',
-      'source' => 'sstephenson/rbenv-gem-rehash'
+      'ensure' => 'v1.1.0',
+      'source' => 'roomorama/rbenv-gem-rehash'
     },
     'rbenv-default-gems' => {
       'ensure' => 'v1.0.0',
